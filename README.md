@@ -76,4 +76,110 @@ Automated_Predictive_Maintenance_System/
 
 ---
 
+## ⚙️ Installation
 
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/Automated_Predictive_Maintenance_System.git
+```
+
+Move into the project folder:
+
+```bash
+cd Automated_Predictive_Maintenance_System
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## ▶️ Run the Application
+
+```bash
+streamlit run app.py
+```
+
+The application will open automatically in your browser.
+
+---
+
+## 📈 Machine Learning Algorithm
+
+### Random Forest Classifier
+
+Random Forest is an ensemble learning algorithm that combines multiple decision trees to improve prediction accuracy and reduce overfitting.
+
+Advantages:
+- High accuracy
+- Handles large datasets
+- Works well with numerical and categorical data
+- Robust against noise
+
+---
+
+## 📋 Input Parameters
+
+Examples of machine parameters:
+
+- Air Temperature
+- Process Temperature
+- Rotational Speed
+- Torque
+- Tool Wear
+
+---
+
+## 📤 Output
+
+The system predicts:
+
+- ✅ Machine Healthy
+- ⚠️ Maintenance Required
+
+---
+
+## 🎓 Academic Relevance
+
+This project demonstrates:
+
+- Machine Learning
+- Predictive Analytics
+- Industrial Automation
+- Data Preprocessing
+- Model Training and Evaluation
+- Web Application Development
+
+---
+
+## 🏭 Industrial Applications
+
+- Thermal Power Plants
+- Manufacturing Industries
+- Oil & Gas Plants
+- Smart Factories
+- Equipment Health Monitoring Systems
+
+---
+
+## 🔮 Future Enhancements
+
+- Deep Learning Integration
+- Real-Time IoT Sensor Data
+- Cloud Deployment
+- Email Alert System
+- Maintenance Scheduling Module
+- Power BI Dashboard Integration
+
+---
+
+## 👩‍💻 Developed By
+
+Tapaswini Shaw  
+B.Tech CSE (AI & ML)
+
+---
