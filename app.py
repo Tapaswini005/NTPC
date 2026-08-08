@@ -7,12 +7,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.set_page_config(
-    page_title="Predictive Maintenance System",
-    page_icon="🔧",
-    layout="wide"
-)
-
 st.title("🔧 AI-Based Predictive Maintenance System")
 
 st.markdown("""
