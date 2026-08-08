@@ -8,17 +8,11 @@ Develop a machine learning system that predicts whether a power plant machine/eq
 Reduce unexpected equipment failures and improve plant efficiency through predictive analysis.
 
 ##Features
--Equipment data entry (temperature, pressure, vibration, etc.)
--Data visualization dashboard
--Machine learning prediction
--Maintenance status:
--Normal
--Warning
--Maintenance Required
--Report generation
--Technologies
--Python
--Pandas
--Scikit-learn
--Streamlit
--Excel/CSV Dataset
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+seaborn
+matplotlib
+joblib
