@@ -1,13 +1,3 @@
-***Predictive Maintenance System for Power Plant Equipment***
-##Project Idea:
-
-Develop a machine learning system that predicts whether a power plant machine/equipment may require maintenance based on operational parameters.
-
-##Objective
-
-Reduce unexpected equipment failures and improve plant efficiency through predictive analysis.
-
-##Features
 streamlit
 pandas
 numpy
